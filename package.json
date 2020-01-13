@@ -1,0 +1,22 @@
+{
+  "name": "easypurchase_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sajidfsdev/easyPurchase_API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sajidfsdev/easyPurchase_API/issues"
+  },
+  "homepage": "https://github.com/sajidfsdev/easyPurchase_API#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
