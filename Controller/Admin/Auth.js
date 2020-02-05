@@ -84,8 +84,8 @@ exports.handleLogin=async (req,resp,next)=>{
     const { email,password }=req.body;
 
     //logging.....
-    //console.log(email);
-    //console.log(password);
+    console.log(email);
+    console.log(password);
 
     //verifying starts.....
     try
