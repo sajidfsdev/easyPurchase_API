@@ -9,4 +9,6 @@ exRoute.post('/addSubCat',AuthVal,ctrl.handleAddSubCat);
 
 exRoute.post('/addSubSubCat',AuthVal,ctrl.handleAddSubSubCat);
 
+exRoute.get('/getAllCats',AuthVal,ctrl.handleGetAllCats);
+
 module.exports=exRoute;
